@@ -17,13 +17,13 @@ CUDA_VISIBLE_DEVICES=2,3,7 python -m torch.distributed.launch --nproc_per_node 3
 
 **2.需要修改的地方**
 
-![](C:\Users\Administrator\Desktop\mmdetection notes\src\训练时需要修改的地方.png)
+![](./src/训练时需要修改的地方.png)
 
-![](C:\Users\Administrator\Desktop\mmdetection notes\src\训练时需要修改的地方2.png)
+![](./src/训练时需要修改的地方2.png)
 
-![](C:\Users\Administrator\Desktop\mmdetection notes\src\训练时需要修改的地方3.png)
+![](./src/训练时需要修改的地方3.png)
 
-![](C:\Users\Administrator\Desktop\mmdetection notes\src\训练时需要修改的地方4.png)
+![](./src/训练时需要修改的地方4.png)
 
 
 
